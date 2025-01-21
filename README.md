@@ -4,7 +4,7 @@
 Dies ist ein einfaches Blackjack-Spiel, das im Python-Terminal gespielt werden kann. Das Ziel des Spiels ist es, eine Hand zu erreichen, deren Wert so nah wie möglich an 21 liegt, ohne sie zu überschreiten, und dabei die Hand des Dealers zu schlagen.
 
 Das Projekt wurde in 12 Stunden entwickelt und bietet eine funktionale Implementierung des beliebten Kartenspiels Blackjack.
-
+(1 Sprint ... 4h)
 ---
 
 ## **Features**
